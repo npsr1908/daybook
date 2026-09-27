@@ -1,0 +1,22 @@
+# Local-only data and exports
+/backups/
+/data/
+daybook-backup*.json
+*.backup.json
+*.personal.json
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+
+# Local secrets and machine files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Common dependency/build folders
+node_modules/
+dist/
+build/
