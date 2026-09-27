@@ -6,6 +6,10 @@ A local-first personal finance tracker with editable accounts, transactions, bud
 
 Open `index.html` in a modern browser. No install, sign-in, or network connection is required.
 
+## Use on iPhone
+
+The static files can be hosted on an HTTPS site and opened in Safari. Use **Share → Add to Home Screen** to install the Daybook web app icon. After the first visit has loaded, its app shell is cached for offline opening; all financial data remains in that browser profile's local storage. Browser and native app data are separate.
+
 ## Your data
 
 - Transactions and settings are saved in the current browser profile on this device.
